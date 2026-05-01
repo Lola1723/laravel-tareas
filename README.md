@@ -2,6 +2,10 @@
 
 Aplicación web desarrollada con Laravel para gestionar tareas con fecha.
 
+## Vista previa
+
+![App](public/img/captura.png)
+
 ## Funcionalidades
 - Crear tareas
 - Editar tareas
